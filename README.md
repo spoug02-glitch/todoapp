@@ -2,6 +2,8 @@
 
 HTML, CSS, JavaScript만을 사용하여 만든 모던하고 아름다운 할 일 관리 애플리케이션입니다.
 
+https://spoug02-glitch.github.io/todoapp/
+
 ## 🎯 주요 기능
 
 ### 기본 기능
@@ -144,3 +146,4 @@ todoapp/
 ---
 
 **즐거운 할 일 관리 되세요! 🎉**
+
